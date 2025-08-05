@@ -40,7 +40,7 @@ In this level, we used the `Get-ADGroup` command to retrieve Active Directory gr
 
 ### References
 - [Learn more about the Get-ADGroup command](https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adgroup?view=windowsserver2025-ps)
-- [Learn more about the Parameters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parameters?view=powershell-7.5)
+- [Learn more about Parameters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parameters?view=powershell-7.5)
 - [Learn more about the Where-Object command](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/where-object?view=powershell-7.5)
-- [Learn more about the Properties](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_properties?view=powershell-7.5)
+- [Learn more about Properties](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_properties?view=powershell-7.5)
 - [Under the Wire - Cyborg 3](https://underthewire.tech/cyborg-3)
